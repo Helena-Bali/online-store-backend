@@ -1,3 +1,4 @@
 .env
 # dependencies
 /node_modules
+git@github.com:Helena-Bali/online-store-backend.git
